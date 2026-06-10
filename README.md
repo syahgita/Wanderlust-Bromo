@@ -121,9 +121,6 @@ Menampilkan:
 - Jeep Adventure
 - Camping Package
 
-### Gallery
-Menampilkan foto-foto destinasi wisata Bromo.
-
 ### Booking
 Form pemesanan paket wisata.
 
