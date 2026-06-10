@@ -241,8 +241,8 @@ Wanderlust Bromo Team
 |--------|--------|
 | Member 1 | Frontend Developer |
 | Member 2 | Backend Developer |
-| Member 3 | Database Designer |
-| Member 4 | UI/UX Designer |
+| Member 3 | Database Designer & UI/UX |
+
 
 ---
 
